@@ -6,7 +6,6 @@ A full-stack job tracking application (Mini CRM) built as part of the Shelfex Fu
 
 - Frontend (Vercel): https://job-tracker.vercel.app  
 - Backend (Render): https://job-tracker-backend.onrender.com  
-- Demo Video (YouTube): https://youtu.be/your-demo-video-link  
 
 ## 🛠️ Tech Stack
 
